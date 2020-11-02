@@ -7,7 +7,7 @@ was inspired by the first brazilian live coding of the [React Nanodegree Program
 
 ## Demo
 
-[computationalcore.github.io/react-to-do-list](https://computationalcore.github.io/react-to-do-list)
+[lexprocanada.github.io/react-to-do-list](https://lexprocanada.github.io/react-to-do-list)
 
 ## Getting Started
 
@@ -26,29 +26,6 @@ or
 
 * Yarn is a package manager built by Facebook Team and seems to be faster than npm in general.  [Download Yarn](https://yarnpkg.com/en/docs/install)
 
-### Installing
-
-To download the project follow the instructions bellow
-
-```
-git clone https://github.com/computationalcore/react-to-do-list
-cd myreads
-```
-
-Install dependencies and run with:
- 
-npm
-```
-npm install
-npm start
-```
-or
-
-yarn
-```
-yarn install
-yarn start
-```
 
 ## Versions
 
@@ -60,9 +37,6 @@ v1.1
 * Task transitions animations
 * Remove tasks capabilities
 
-## Authors
-Vin Busquet
-* [https://github.com/computationalcore](https://github.com/computationalcore)
 
 ## License
 
